@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Ana García",
+    "user_id": "ana_garcia_123",
+    "message": "Hola, ¿cómo están todos hoy?",
+    "date": 1703136000000,
+    "avatar": "https://example.com/avatars/ana_garcia.jpg"
+  },
+  {
+    "name": "Carlos López",
+    "user_id": "carlos_lopez_456",
+    "message": "¡Buenos días! Listo para el nuevo proyecto",
+    "date": 1703222400000,
+    "avatar": "https://example.com/avatars/carlos_lopez.jpg"
+  },
+  {
+    "name": "María Fernández",
+    "user_id": "maria_fernandez_789",
+    "message": "¿Alguien tiene el informe actualizado?",
+    "date": 1703308800000,
+    "avatar": "https://example.com/avatars/maria_fernandez.jpg"
+  },
+  {
+    "name": "Juan Martínez",
+    "user_id": "juan_martinez_321",
+    "message": "Reunión en 10 minutos, no se olviden",
+    "date": 1703395200000,
+    "avatar": "https://example.com/avatars/juan_martinez.jpg"
+  },
+  {
+    "name": "Laura Sánchez",
+    "user_id": "laura_sanchez_654",
+    "message": "Excelente presentación de ayer, felicitaciones",
+    "date": 1703481600000,
+    "avatar": "https://example.com/avatars/laura_sanchez.jpg"
+  },
+  {
+    "name": "Pedro Ramírez",
+    "user_id": "pedro_ramirez_987",
+    "message": "Necesito ayuda con el código del módulo 3",
+    "date": 1703568000000,
+    "avatar": "https://example.com/avatars/pedro_ramirez.jpg"
+  },
+  {
+    "name": "Sofía Torres",
+    "user_id": "sofia_torres_147",
+    "message": "El cliente está muy contento con los resultados",
+    "date": 1703654400000,
+    "avatar": "https://example.com/avatars/sofia_torres.jpg"
+  },
+  {
+    "name": "Diego Morales",
+    "user_id": "diego_morales_258",
+    "message": "¿Podemos reprogramar la llamada para mañana?",
+    "date": 1703740800000,
+    "avatar": "https://example.com/avatars/diego_morales.jpg"
+  },
+  {
+    "name": "Valentina Herrera",
+    "user_id": "valentina_herrera_369",
+    "message": "Comparto el documento en el drive",
+    "date": 1703827200000,
+    "avatar": "https://example.com/avatars/valentina_herrera.jpg"
+  },
+  {
+    "name": "Andrés Castro",
+    "user_id": "andres_castro_741",
+    "message": "Terminé mi parte, pueden revisar",
+    "date": 1703913600000,
+    "avatar": "https://example.com/avatars/andres_castro.jpg"
+  },
+  {
+    "name": "Isabella Ríos",
+    "user_id": "isabella_rios_852",
+    "message": "Gracias por la retroalimentación, muy útil",
+    "date": 1704000000000,
+    "avatar": "https://example.com/avatars/isabella_rios.jpg"
+  },
+  {
+    "name": "Manuel Vargas",
+    "user_id": "manuel_vargas_963",
+    "message": "Hay un error en la línea 45 del script",
+    "date": 1704086400000,
+    "avatar": "https://example.com/avatars/manuel_vargas.jpg"
+  },
+  {
+    "name": "Camila Mendoza",
+    "user_id": "camila_mendoza_159",
+    "message": "Propongo cambiar el color del botón principal",
+    "date": 1704172800000,
+    "avatar": "https://example.com/avatars/camila_mendoza.jpg"
+  },
+  {
+    "name": "Esteban Guerrero",
+    "user_id": "esteban_guerrero_357",
+    "message": "El servidor está funcionando perfectamente",
+    "date": 1704259200000,
+    "avatar": "https://example.com/avatars/esteban_guerrero.jpg"
+  },
+  {
+    "name": "Daniela Flores",
+    "user_id": "daniela_flores_486",
+    "message": "¿Alguien puede cubrir mi turno mañana?",
+    "date": 1704345600000,
+    "avatar": "https://example.com/avatars/daniela_flores.jpg"
+  },
+  {
+    "name": "Roberto Ortega",
+    "user_id": "roberto_ortega_279",
+    "message": "Actualicé la base de datos con los nuevos datos",
+    "date": 1704432000000,
+    "avatar": "https://example.com/avatars/roberto_ortega.jpg"
+  },
+  {
+    "name": "Natalia Cruz",
+    "user_id": "natalia_cruz_684",
+    "message": "El diseño responsive quedó excelente",
+    "date": 1704518400000,
+    "avatar": "https://example.com/avatars/natalia_cruz.jpg"
+  },
+  {
+    "name": "Fernando Reyes",
+    "user_id": "fernando_reyes_513",
+    "message": "Mañana entregamos la versión final",
+    "date": 1704604800000,
+    "avatar": "https://example.com/avatars/fernando_reyes.jpg"
+  },
+  {
+    "name": "Patricia Aguilar",
+    "user_id": "patricia_aguilar_792",
+    "message": "Recordatorio: deadline el viernes a las 5pm",
+    "date": 1704691200000,
+    "avatar": "https://example.com/avatars/patricia_aguilar.jpg"
+  },
+  {
+    "name": "Ricardo Silva",
+    "user_id": "ricardo_silva_468",
+    "message": "Feliz fin de semana para todos",
+    "date": 1704777600000,
+    "avatar": "https://example.com/avatars/ricardo_silva.jpg"
+  }
+]
