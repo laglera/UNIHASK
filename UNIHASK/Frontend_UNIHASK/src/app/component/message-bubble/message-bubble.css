@@ -1,0 +1,41 @@
+.messageBubble_avatar {
+  border-radius: 50%;
+  max-width: 2rem;
+  max-height: 2rem;
+  object-fit: cover;
+  margin-top: 0.5rem;
+}
+
+.messageBubble_container {
+  display: flex;
+  gap: 1rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 0 0.50rem;
+  position: relative;
+  border-radius: 1rem;
+}
+
+.messageBubble_rightContainer {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.25rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.5rem;
+
+}
+
+.messageBubble_date {
+  position: absolute;
+  bottom: 0.25rem;
+  right: 0;
+  transform: translate(-50%);
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7)
+
+}
+
+.messageBubble_name {
+  font-weight: bold;
+}
+
